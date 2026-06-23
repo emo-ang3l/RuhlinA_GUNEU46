@@ -20,13 +20,13 @@
 
 ### Танк крупным планом
 
-![Танк крупным планом](Screenshots/tank-closeup.png)
+![Танк крупным планом](gitAssets/1image.png)
 
 *Настроенный танк с Wheel Collider.*
 
 ### Танк в движении
 
-![Танк в движении](Screenshots/tank-driving.png)
+![Танк в движении](gitAssets/image1.png)
 
 *Танк движется по сцене и сталкивается с препятствиями.*
 
@@ -37,7 +37,7 @@
 1. Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/ТВОЙ_НИК/ФамилияИмя_Группа.git
+git clone https://github.com/ТВОЙ_НИК/RuhlinAGUNEU-46.git
 ```
 
 2. Откройте проект через **Unity Hub**:
