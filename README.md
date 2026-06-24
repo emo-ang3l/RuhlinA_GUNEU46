@@ -36,7 +36,7 @@
 1. Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/ТВОЙ_НИК/RuhlinAGUNEU-46.git
+git clone https://github.com/emo-ang3l/RuhlinA_GUNEU46.git
 ```
 
 2. Откройте проект через **Unity Hub**:
