@@ -1,6 +1,5 @@
 # Домашнее задание: Танки (Unity)
 
-![Unity Logo](https://unity.com/sites/default/files/2020-02/unity-logo.png)
 
 ## Описание проекта
 
